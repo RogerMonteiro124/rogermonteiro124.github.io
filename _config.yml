@@ -1,13 +1,13 @@
-name: Your New Jekyll Site
-description: Blogging about stuffs
-meta_description: "Your New Jekyll Site, Blogging about stuffs"
+name: Roger Monteiro
+description: Blogging about Tec Dev
+meta_description: "Roger Monteiro, Blogging about Tec Dev"
 
 markdown: kramdown
 highlighter: rouge
 logo: false
 paginate: 15
 baseurl: /kasper
-domain_name: "http://yourblog-domain.com"
+domain_name: "http://rogermonteiro124.github.io"
 google_analytics: "UA-XXXXXXXX-X"
 plugins: [jekyll-paginate]
 
